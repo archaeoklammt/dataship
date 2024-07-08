@@ -5,5 +5,8 @@
 
 ### open topic
 
-* how to adress the slight missmatching of terms?
+* how to adress the slight mismatching of terms?
 
+## 09-07-2024
+
+* collect further insight in iDAIthesauri. Quite interesting in refering to the problem of slightly mismatching concepts, or more precisely concepts, that are part of hierarchies that refer to pottery, but describes morphological aspects not bound to pottery (like "lid"), might still be usable. Why? The iDAI.tehsauri are based on SKOS and therefore the type of relation within one Thesaurus is only broader and narrower. This means it is not determined, that a concept, which is narrow to another inherits certain traits ("Mimmi is a cat" / "a cat is a mammal"). 
